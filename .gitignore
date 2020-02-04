@@ -10,4 +10,9 @@ settings.xml
 *.ipr
 *.idea
 run-tests.sh
+<<<<<<< HEAD
 _dev/*
+=======
+_dev/*
+_test/*
+>>>>>>> Staging
