@@ -11,3 +11,4 @@ settings.xml
 *.idea
 run-tests.sh
 _dev/*
+_test/*
